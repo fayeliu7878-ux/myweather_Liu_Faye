@@ -18,7 +18,7 @@ class SiteNavbar extends HTMLElement {
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
                         <img src="/images/cloudy.png" height="36">
-                        Fish's Weather
+                        Fish's Hike
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
